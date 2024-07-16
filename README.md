@@ -52,7 +52,7 @@ Contribution:
 Contribution are welcome! If you have any improvement or suggestion , feel free to fork the repository and submit a pull request.
 
 Contact: 
-fro any question or series please contact: sumitmchaurasia@gmail.com
+for any question or series please contact: sumitmchaurasia@gmail.com
 
 
 
